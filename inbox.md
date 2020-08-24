@@ -8,6 +8,7 @@
 - learning languages
 - dtcopy 
 - act of remembering is the most important part of learning
+- [ ] write about state machines
 - what do I believe in as a developer
 - [ADRs](https://github.blog/2020-08-13-why-write-adrs/) 
   
