@@ -7,6 +7,7 @@
 - Swift learning
 - learning languages
 - dtcopy 
+- act of remembering is the most important part of learning
 - what do I believe in as a developer
 - [ADRs](https://github.blog/2020-08-13-why-write-adrs/) 
   
