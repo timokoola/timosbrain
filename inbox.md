@@ -6,7 +6,7 @@
 - CSS learning
 - Swift learning
 - learning languages
-- dtcopy 
+- [[dtcopy]] 
 - act of remembering is the most important part of learning
 - [ ] write about state machines
 - what do I believe in as a developer
