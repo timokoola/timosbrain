@@ -8,4 +8,4 @@ I maintain my book list in [Goodreads](https://www.goodreads.com/)
 
 I write about books, I am to write a short review or recap of every book, preferably at some point with a solid formula.
 
-- [ ] Create book review template that works for me
+- [ ] Create a book review template that works for me
