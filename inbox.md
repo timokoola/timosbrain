@@ -12,6 +12,8 @@
 - what do I believe in as a developer
 - What do I need to know about technologies I don't use
 - kotus
+- love letter to make
+- learning on the job
 - my daily routines
 - [ADRs](https://github.blog/2020-08-13-why-write-adrs/) 
   
