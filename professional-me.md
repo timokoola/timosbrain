@@ -5,6 +5,12 @@
 - [ ] my motivations, typical projects
 - [ ] my favorite
 - [ ] my current knowledge
+  - [ ] Python
+  - [ ] Frontend
+    - [ ] CSS
+  - [ ] Software Architecture
 - [ ] skills under development
+  - [ ] Swift, iOS, Mac
+  - [ ] Natural language and programming
 - [ ] what I am not
 - [ ] [[what_do_i_believe_in]]
