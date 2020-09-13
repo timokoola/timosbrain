@@ -15,6 +15,7 @@
 - love letter to make
 - learning on the job
 - my daily routines
+- to [bash section](https://www.stefanjudis.com/notes/bash-scripting-pitfalls-and-solutions-how-to-do-safe-things-in-bash/)
 - [ADRs](https://github.blog/2020-08-13-why-write-adrs/) 
   
 
